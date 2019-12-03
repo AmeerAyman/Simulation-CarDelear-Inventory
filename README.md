@@ -6,3 +6,6 @@ If there are shortage we add this shortage on the order quantity.
 The inventory is started with 3 cars and there are 3 cars will be arrived after 2 days. 
 we need to get some information and statistics about the inventory.
 
+
+
+To run the project open the testcase.txt
