@@ -1,0 +1,48 @@
+test case :
+
+max unit of inventory= 11
+review period= 5
+beginning of inventory = 3
+first order of unit = 8
+scheduled to arrive = 2
+number of cycles = 1
+
+enter how many demand values?
+5
+
+demand 1 and probability 1
+0
+demand 1 and probability 1
+0.1
+demand 2 and probability 2
+1
+demand 2 and probability 2
+0.25
+demand 3 and probability 3
+2
+demand 3 and probability 3
+0.35
+demand 4 and probability 4
+3
+demand 4 and probability 4
+0.21
+demand 5 and probability 5
+4
+demand 5 and probability 5
+0.09
+
+enter how many leadtime values?
+3
+
+leadTime 1 and probability 1
+1
+leadTime 1 and probability 1
+0.6
+leadTime 2 and probability 2
+2
+leadTime 2 and probability 2
+0.3
+leadTime 3 and probability 3
+3
+leadTime 3 and probability 3
+0.1
